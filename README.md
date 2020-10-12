@@ -11,8 +11,8 @@ I'm currently learning:
 - Typescript
 - Mobile app development (iOS)
 
-I want to be better at:
+I am working on:
 
-- Finishing projects that I start
-- Implementing design patterns in Go, Java, and Typescript
-- System design
+- Implementing design patterns in Java, Go, and Typescript
+- Implementing data structures and algorithms in Java, Go, and Typescript
+- Learning about Docker/Kubernetes 
