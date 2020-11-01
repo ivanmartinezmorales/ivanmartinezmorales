@@ -1,4 +1,4 @@
-# Hi, I'm Ivan 👨🏾‍💻
+# Hi, I'm Ivan 👨🏾‍💻 (he/him/his)
 
 I'm a:
 
