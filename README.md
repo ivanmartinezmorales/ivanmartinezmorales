@@ -1,4 +1,4 @@
-# Ivan Martinez Morales (he/him)
+## Ivan Martinez Morales (he/him)
 
 
 ### husband, engineer, veteran
