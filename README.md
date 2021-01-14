@@ -1,18 +1,6 @@
-# Hi, I'm Ivan 👨🏾‍💻 (he/him/his)
+# Ivan Martinez Morales (he/him)
 
-I'm a:
 
-- Software Engineer Intern at Workiva: [work Github](https://github.com/ivanmartinezmorales-wk)
-- Senior at Arizona State University, studying Computer Science.
+### husband, engineer, veteran
 
-I'm currently learning:
-
-- Go 
-- Typescript
-- Mobile app development (iOS)
-
-I am working on:
-
-- Implementing design patterns in Java, Go, and Typescript
-- Implementing data structures and algorithms in Java, Go, and Typescript
-- Learning about Docker/Kubernetes 
+[![Ivan's github stats](https://github-readme-stats.vercel.app/api?username=ivanmartinezmorales)](https://github.com/anuraghazra/github-readme-stats)
