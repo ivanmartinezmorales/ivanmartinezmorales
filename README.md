@@ -9,3 +9,4 @@ Graduating in May 2021 from Arizona State with a Computer Science degree. Previo
 
 I ❤️ cycling, hiking, reading, and spending time with my wife, Samaura.
 
+Oh, and I also love plants and my dog, Karina. (Not in that order)
