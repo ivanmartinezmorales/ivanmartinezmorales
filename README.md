@@ -1,5 +1,4 @@
 Ivan Martinez Morales (he/him)
-
 ---
 
 Currently at Plaid. Previously at Workiva, and Mailchimp. 
