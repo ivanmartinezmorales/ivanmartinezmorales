@@ -1,7 +1,7 @@
 Ivan Martinez Morales (he/him)
 ---
 
-Currently at Plaid. Previously at Workiva, and Mailchimp. 
+Currently at Plaid. Previously at Workiva and Mailchimp. 
 
 I work on building end-to-end experiences that customers love. I mainly write Typescript and Go. 
 
